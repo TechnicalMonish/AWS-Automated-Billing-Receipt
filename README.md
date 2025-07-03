@@ -89,10 +89,10 @@ Environment Variables: One small typo in a key name caused a silent fail — pai
 
 ## 🖼️ 📷 Receipt Flow in Action
 
-<img width="603" alt="Screenshot 2025-07-01 at 12 25 15" src="https://github.com/user-attachments/assets/aac8ffb2-f304-4bb4-9e54-93dc6f4dfda1" />
 
-<img width="597" alt="Screenshot 2025-07-01 at 13 06 11" src="https://github.com/user-attachments/assets/44fcc0dd-eff3-4c12-b890-6cfa65dadc58" />
+<img width="603" alt="Screenshot 2025-07-01 at 12 25 15" src="https://github.com/user-attachments/assets/696da528-b85d-4456-8e87-c790dca8f10d" />
 
+<img width="597" alt="Screenshot 2025-07-01 at 13 06 11" src="https://github.com/user-attachments/assets/203927e0-c1b4-4873-8c2d-62c973d4e7f1" />
 
 
 
